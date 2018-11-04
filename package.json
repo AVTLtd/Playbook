@@ -1,0 +1,23 @@
+{
+  "name": "Playbook",
+  "version": "1.0.0",
+  "description": "Playbook Electron build",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVTLtd/Playbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVTLtd/Playbook/issues"
+  },
+  "homepage": "https://github.com/AVTLtd/Playbook#readme",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  }
+}
