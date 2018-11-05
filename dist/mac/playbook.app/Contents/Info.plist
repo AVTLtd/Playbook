@@ -45,6 +45,6 @@
     <key>NSHumanReadableCopyright</key>
     <string>Copyright © 2018 Playbook</string>
     <key>AsarIntegrity</key>
-    <string>{"checksums":{"app.asar":"LDvOdkXsrjZ7eST5nnC0xaiVYF6pMUe/Gbur9kFUiORd7yhF4vDf0kDHC9J888jJMx9M1q3TFQKG+LR4JZj0tw==","electron.asar":"gVCLkwQJOdqmyiUuLU4+tNO4UT0UYu6ELtg1rbqCOxgPMMKW96ycjaPuD3yYLqIvvOog4v+8ov+nDsNIyAJToA=="}}</string>
+    <string>{"checksums":{"app.asar":"cygYAKc6jCbM1TueVnD+7/uGY2/5ZVT46DSbUQAo0nyIprnwGYjzrIUhZFLg6Ni5wthhPAHYwYjHNx/axch0ww==","electron.asar":"gVCLkwQJOdqmyiUuLU4+tNO4UT0UYu6ELtg1rbqCOxgPMMKW96ycjaPuD3yYLqIvvOog4v+8ov+nDsNIyAJToA=="}}</string>
   </dict>
 </plist>
