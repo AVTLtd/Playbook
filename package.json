@@ -1,6 +1,7 @@
 {
   "name": "playbook",
   "productName": "Playbook",
+  "author": "Allergan",
   "version": "1.0.0",
   "description": "Playbook Electron build",
   "main": "main.js",
