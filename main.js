@@ -10,6 +10,7 @@ function createWindow () {
     width: 1280,
     minWidth: 680,
     height: 720,
+    minHeight: 410,
     title: app.getName(),
     //frame: false
   })
@@ -21,7 +22,7 @@ function createWindow () {
   win.loadFile('index.html')
 
   // Open the DevTools.
-  //win.webContents.openDevTools()
+  win.webContents.openDevTools()
 
   // Emitted when the window is closed.
   win.on('closed', () => {
