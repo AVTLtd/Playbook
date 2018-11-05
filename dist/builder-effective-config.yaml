@@ -2,9 +2,10 @@ directories:
   output: dist
   buildResources: build
 appId: com.allergan.playbook
+copyright: Copyright © 2018 Allergan
 extraResources:
   - from: ./resources/docs/
-    to: resources
+    to: extraResources
     filter:
       - '**/*'
 mac:
@@ -22,6 +23,7 @@ linux:
     - AppImage
     - deb
 win:
-  target: squirrel
+  target: msi
   icon: build/icon.ico
+  legalTrademarks: Copyright 2018 Allergan
 electronVersion: 3.0.7

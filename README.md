@@ -2,7 +2,8 @@
 
 Running online version of mockup for Playbooks app in HTML/JS, amended output from Adobe Animate
 
-index.js at resources/assets/components/lib/index.js
+- *index.js* at resources/assets/components/lib/index.js
+- Default Adobe Animate HTML template included
 
 Running web version at https://avtconnect.github.io
 
