@@ -4,6 +4,8 @@ Running online version of mockup for Playbooks app in HTML/JS, amended output fr
 
 index.js at resources/assets/components/lib/index.js
 
+Running web version at https://avtconnect.github.io
+
 **Requirements for Desktop App build:**
 1. Works with HTML5/JS export from Adobe Animate
 2. Offline
