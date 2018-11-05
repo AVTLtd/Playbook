@@ -4,6 +4,9 @@ var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [];
 
+const shell = require('electron').shell;
+const path = require('path');
+
 
 // symbols:
 
@@ -2941,7 +2944,8 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 		// View document function
 		function viewDocument() {
-			window.open("resources/docs/test.pdf", "_blank");
+			//window.open("resources/docs/test.pdf", "_blank");
+			shell.openItem(path.join(__dirname, 'resources/docs/test.pdf'));
 		}
 
 		// Download file function 1 - Document

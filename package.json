@@ -1,10 +1,12 @@
 {
-  "name": "Playbook",
+  "name": "playbook",
   "version": "1.0.0",
   "description": "Playbook Electron build",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "build --dir",
+    "dist": "build"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,38 @@
   },
   "homepage": "https://github.com/AVTLtd/Playbook#readme",
   "devDependencies": {
-    "electron": "^3.0.7"
-  }
+    "electron": "^3.0.7",
+    "electron-builder": "^20.31.2"
+  },
+  "build": {
+    "appId": "com.allergan.playbook",
+    "mac": {
+      "category": "public.app-category.reference"
+    },
+    "dmg": {
+      "contents": [
+        {
+          "x": 110,
+          "y": 150
+        },
+        {
+          "x": 240,
+          "y": 150,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ]
+    },
+    "win": {
+      "target": "squirrel",
+      "icon": "build/icon.ico"
+    }
+  },
+  "dependencies": {}
 }

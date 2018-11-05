@@ -1,4 +1,4 @@
-# Playbook Mockup
+# Playbook - Electron build
 
 Running online version of mockup for Playbooks app in HTML/JS, amended output from Adobe Animate
 

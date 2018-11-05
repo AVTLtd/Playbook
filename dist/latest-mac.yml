@@ -1,0 +1,12 @@
+version: 1.0.0
+files:
+  - url: playbook-1.0.0-mac.zip
+    sha512: q3lfRBlgjmd5MdCVSl4ygtwL94Oty5PnRB94p5AonKbNzK+LWwrFCPRYCpeeUG7lw92yrdAGvPJe2etdEo2sPg==
+    size: 60942880
+    blockMapSize: 64620
+  - url: playbook-1.0.0.dmg
+    sha512: lmtUv5hBxcRN8quBQW9ZQJUZ23TvPL8AS+ojFsOPNnBasNKMNnbeHZ/bNs0ZwBbN9O0GfC1/qKHeTiMAc0lnSA==
+    size: 62570295
+path: playbook-1.0.0-mac.zip
+sha512: q3lfRBlgjmd5MdCVSl4ygtwL94Oty5PnRB94p5AonKbNzK+LWwrFCPRYCpeeUG7lw92yrdAGvPJe2etdEo2sPg==
+releaseDate: '2018-11-04T23:57:34.690Z'
