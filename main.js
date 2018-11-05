@@ -12,7 +12,7 @@ function createWindow () {
     height: 720,
     minHeight: 410,
     title: app.getName(),
-    //frame: false
+    frame: false
   })
 
   // no menus

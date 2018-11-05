@@ -1,12 +1,12 @@
 version: 1.0.0
 files:
   - url: Playbook-1.0.0-mac.zip
-    sha512: +cgv74HzHa+CACqjmMoX1MdGJndJFR5dW0FTu24PpxjwmrbshfbV+6xKRS1hiT3PGmWKo9Lx/gpwowxJib/FbA==
-    size: 60943441
-    blockMapSize: 64798
+    sha512: qKD2/hRl0Pit3xZTvzDIdJkra8SgB9PMJPqRjh9xR9RYkmYPRPAHVhwJh1F+w0F/Tv8cAypFkEvq/GxJ5GQqaw==
+    size: 60952218
+    blockMapSize: 64662
   - url: Playbook-1.0.0.dmg
-    sha512: XGPB1oRBWTmtRsVHNC2eKGSi2kXp2r65rvJRuTIREBKPAHngnuKN9dCDI0MPewp4/D86qaLBs8fKqvVSKpu+lA==
-    size: 62571254
+    sha512: S1C0uZS4QfcM7a7yZVtHyJct6hDi0g2Hm1DH7QU9QWyfpnAlvISlK+34WqBnoqoxPOsU5D94Ho4iAkypQJj7kA==
+    size: 62578085
 path: Playbook-1.0.0-mac.zip
-sha512: +cgv74HzHa+CACqjmMoX1MdGJndJFR5dW0FTu24PpxjwmrbshfbV+6xKRS1hiT3PGmWKo9Lx/gpwowxJib/FbA==
-releaseDate: '2018-11-05T13:45:36.524Z'
+sha512: qKD2/hRl0Pit3xZTvzDIdJkra8SgB9PMJPqRjh9xR9RYkmYPRPAHVhwJh1F+w0F/Tv8cAypFkEvq/GxJ5GQqaw==
+releaseDate: '2018-11-05T17:52:24.144Z'

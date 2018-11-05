@@ -1,7 +1,7 @@
 {
   "name": "playbook",
   "productName": "Playbook",
-  "author": "Allergan",
+  "author": "",
   "version": "1.0.0",
   "description": "Playbook Electron build",
   "main": "main.js",
@@ -15,7 +15,6 @@
     "url": "git+https://github.com/AVTLtd/Playbook.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AVTLtd/Playbook/issues"
@@ -28,13 +27,15 @@
   "build": {
     "appId": "com.allergan.playbook",
     "copyright": "Copyright © 2018 Allergan",
-    "extraResources": [{
-      "from": "./resources/extraResources/",
-      "to": "extraResources",
-      "filter": [
-        "**/*"
-      ]
-    }],
+    "extraResources": [
+      {
+        "from": "./resources/extraResources/",
+        "to": "extraResources",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
     "mac": {
       "category": "public.app-category.reference"
     },
@@ -64,5 +65,7 @@
       "legalTrademarks": "Copyright 2018 Allergan"
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "ajv": "^6.5.5"
+  }
 }

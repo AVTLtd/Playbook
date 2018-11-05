@@ -45,6 +45,6 @@
     <key>NSHumanReadableCopyright</key>
     <string>Copyright © 2018 Allergan</string>
     <key>AsarIntegrity</key>
-    <string>{"checksums":{"app.asar":"BPWZRId2dZI4PCMcA+RRTK55E7VsS9hn8olAxsqMBs4hQvaGAHFbnUpkgeE8AWmmq5s2NAhWMLxB/+Eb2jQ3Jg==","electron.asar":"gVCLkwQJOdqmyiUuLU4+tNO4UT0UYu6ELtg1rbqCOxgPMMKW96ycjaPuD3yYLqIvvOog4v+8ov+nDsNIyAJToA=="}}</string>
+    <string>{"checksums":{"app.asar":"1dCa7iMsG+1qtmEPryAG+dSwC8FBTz9SUQWAYhDQzYWkhBPQOxioR0KkHUh0kr33lxF0IHK6AYNQ/DoyTnZMCg==","electron.asar":"gVCLkwQJOdqmyiUuLU4+tNO4UT0UYu6ELtg1rbqCOxgPMMKW96ycjaPuD3yYLqIvvOog4v+8ov+nDsNIyAJToA=="}}</string>
   </dict>
 </plist>
