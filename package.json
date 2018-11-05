@@ -29,7 +29,7 @@
     "copyright": "Copyright © 2018 Allergan",
     "extraResources": [{
       "from": "./resources/docs/",
-      "to": "resources",
+      "to": "extraResources",
       "filter": [
         "**/*"
       ]

@@ -2941,7 +2941,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		// View document function
 		function viewDocument() {
 			//window.open("resources/docs/test.pdf", "_blank");
-			shell.openItem(path.join(__dirname, 'resources/docs/test.pdf'));
+			shell.openItem(path.join(__dirname, './extraResources/test.pdf'));
 		}
 
 		// Download file function 1 - Document
