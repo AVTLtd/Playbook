@@ -26,7 +26,6 @@
   },
   "build": {
     "appId": "com.allergan.playbook",
-    "author": "Allergan",
     "extraResources": [{
       "from": "./resources/docs/",
       "to": "resources",
