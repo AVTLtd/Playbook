@@ -1,5 +1,6 @@
 {
   "name": "playbook",
+  "productName": "Playbook",
   "version": "1.0.0",
   "description": "Playbook Electron build",
   "main": "main.js",
@@ -25,6 +26,13 @@
   },
   "build": {
     "appId": "com.allergan.playbook",
+    "extraResources": [{
+      "from": "./resources/docs/",
+      "to": "resources",
+      "filter": [
+        "**/*"
+      ]
+    }],
     "mac": {
       "category": "public.app-category.reference"
     },

@@ -5,9 +5,9 @@
     <key>BuildMachineOSBuild</key>
     <string>16G1510</string>
     <key>CFBundleDisplayName</key>
-    <string>playbook Helper EH</string>
+    <string>Playbook Helper EH</string>
     <key>CFBundleExecutable</key>
-    <string>playbook Helper EH</string>
+    <string>Playbook Helper EH</string>
     <key>CFBundleIdentifier</key>
     <string>com.allergan.playbook.helper.EH</string>
     <key>CFBundleName</key>

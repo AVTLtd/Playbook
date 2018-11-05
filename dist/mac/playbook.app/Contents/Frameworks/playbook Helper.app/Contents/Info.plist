@@ -23,9 +23,9 @@
     <key>NSSupportsAutomaticGraphicsSwitching</key>
     <true/>
     <key>CFBundleExecutable</key>
-    <string>playbook Helper</string>
+    <string>Playbook Helper</string>
     <key>CFBundleDisplayName</key>
-    <string>playbook Helper</string>
+    <string>Playbook Helper</string>
     <key>CFBundleVersion</key>
     <string>1.0.0</string>
   </dict>

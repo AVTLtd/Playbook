@@ -2,6 +2,11 @@ directories:
   output: dist
   buildResources: build
 appId: com.allergan.playbook
+extraResources:
+  - from: ./resources/docs/
+    to: resources
+    filter:
+      - '**/*'
 mac:
   category: public.app-category.reference
 dmg:

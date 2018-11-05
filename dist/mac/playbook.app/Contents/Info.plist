@@ -5,17 +5,17 @@
     <key>BuildMachineOSBuild</key>
     <string>16G1510</string>
     <key>CFBundleDisplayName</key>
-    <string>playbook</string>
+    <string>Playbook</string>
     <key>CFBundleExecutable</key>
-    <string>playbook</string>
+    <string>Playbook</string>
     <key>CFBundleIconFile</key>
-    <string>playbook.icns</string>
+    <string>Playbook.icns</string>
     <key>CFBundleIdentifier</key>
     <string>com.allergan.playbook</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
-    <string>playbook</string>
+    <string>Playbook</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
@@ -43,8 +43,8 @@
     <key>NSSupportsAutomaticGraphicsSwitching</key>
     <true/>
     <key>NSHumanReadableCopyright</key>
-    <string>Copyright © 2018 playbook</string>
+    <string>Copyright © 2018 Playbook</string>
     <key>AsarIntegrity</key>
-    <string>{"checksums":{"app.asar":"INasG0jBGNBa36yM/lZ5bfW2VIJrZd5QiB0is0z3KBgPWUB6XwUexyLoRxdgDpoSZIQisNcanAYVFQFZbuAICg==","electron.asar":"gVCLkwQJOdqmyiUuLU4+tNO4UT0UYu6ELtg1rbqCOxgPMMKW96ycjaPuD3yYLqIvvOog4v+8ov+nDsNIyAJToA=="}}</string>
+    <string>{"checksums":{"app.asar":"LDvOdkXsrjZ7eST5nnC0xaiVYF6pMUe/Gbur9kFUiORd7yhF4vDf0kDHC9J888jJMx9M1q3TFQKG+LR4JZj0tw==","electron.asar":"gVCLkwQJOdqmyiUuLU4+tNO4UT0UYu6ELtg1rbqCOxgPMMKW96ycjaPuD3yYLqIvvOog4v+8ov+nDsNIyAJToA=="}}</string>
   </dict>
 </plist>

@@ -1,5 +1,4 @@
 (function (cjs, an) {
-
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [];
@@ -7,10 +6,7 @@ lib.ssMetadata = [];
 const shell = require('electron').shell;
 const path = require('path');
 
-
 // symbols:
-
-
 
 (lib.Image = function() {
 	this.initialize(img.Image);
@@ -2945,7 +2941,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		// View document function
 		function viewDocument() {
 			//window.open("resources/docs/test.pdf", "_blank");
-			shell.openItem(path.join(__dirname, 'resources/docs/test.pdf'));
+			shell.openItem(path.join(path.dirname(__dirname), 'extraResources', 'test.txt'));
 		}
 
 		// Download file function 1 - Document
@@ -2957,7 +2953,6 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		function downloadFile_2() {
 			download("resources/videos/test_video.mp4");
 		}
-
 
 		// ---- Listeners
 
