@@ -4,7 +4,7 @@ directories:
 appId: com.allergan.playbook
 copyright: Copyright © 2018 Allergan
 extraResources:
-  - from: ./resources/docs/
+  - from: ./resources/extraResources/
     to: extraResources
     filter:
       - '**/*'
